@@ -1,1 +1,2 @@
 # Superstore_Management_System
+This project builds a comprehensive analytical pipeline for a fictional superstore. It begins with synthetic data generation using Python and Faker, followed by structured analysis across customer behavior, product performance, regional trends, and delivery efficiency. Advanced techniques like PCA, logistic regression, and KMeans clustering are used to extract hidden patterns and segment entities for targeted business strategies.
